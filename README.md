@@ -62,7 +62,7 @@ to meet the needs of that target segment.
 **Strategies for Leadership**
 
 1. **Performance superiority** - focus on product features/design
-2. **Operation excellence** - focus on operational aspects
+2. **Operational excellence** - focus on operational aspects
 3. **Customer Intimacy** - focus on meeting customers' needs
 
 ### Segmentation, Targeting and Positioning (STP)
@@ -122,7 +122,25 @@ Redefining what a brand is from the experiential position:
 - Attributes -> Personality
 - Static -> Dynamic
 - Mass -> Individual
-- Awareness -> Relevance  
+- Awareness -> Relevance 
+
+## Customer Centricity 
+
+### Cracks in the Product-Centric Approach
+
+- Technology-enabled product development -> **commoditization**. Commoditization is the process by which goods that 
+have economic value and are distinguishable in terms of attributes (uniqueness or brand) end up becoming simple 
+commodities in the eyes of the market or consumers. It is the movement of a market from differentiated 
+to undifferentiated price competition and from monopolistic competition to perfect competition.
+- Technology-enabled information flow -> **smart customers**. They can easily switch to a competitor.
+- Technology-enabled delivery -> **retail saturation**
+- Customers want "**end-to-end solutions**", which may require products/services from multiple vendors.
+- Information systems enable **customer-level tracking**   
+
+### What is Customer Centricity
+
+**Customer centricity** is a strategy that aligns a company's development/delivery of its products/services around 
+the needs of a select set of customers in order to maximize their long-term financial value to the firm.
 
 ## Resources
 
