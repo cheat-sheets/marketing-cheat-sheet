@@ -142,6 +142,49 @@ to undifferentiated price competition and from monopolistic competition to perfe
 **Customer centricity** is a strategy that aligns a company's development/delivery of its products/services around 
 the needs of a select set of customers in order to maximize their long-term financial value to the firm.
 
+## Go to Market Strategies
+
+### Online / Offline Competition
+
+More than 90% of what is sold to consumers is still sold offline (2013). This is because there are still frictions:
+
+- Delivery times
+- Uncertainty about "fit and feel" of certain products
+- Cost of returns (time and money)
+
+But niche products, e.g. unpopular books, are only sold online.
+
+### Frictions removed by online shops
+
+1. **Search Friction** - it's easier to find what you need online.
+2. **Geographic Friction** - the Internet can deliver to you from any place in the world.
+
+## The Long Tail
+
+![Long Tail](./assets/long_tail.png)
+
+The Internet opened up the possibility for easy access to products from the long tail, i.e. the less popular ones.
+
+![Gini Coefficient](./assets/gini_coefficient.png)
+
+The graph shows that the Gini coefficient is equal to the area marked A divided by the sum of the areas marked A and B, 
+that is, Gini = A / (A + B). 
+It is also equal to 2A and to 1 − 2B due to the fact that A + B = 0.5 (since the axes scale from 0 to 1). 
+
+Gini Coefficient can also be applied to the Long Tail of products.
+
+### Preference Isolation
+
+The stores are only motivated to put on the shelves the products that are most popular. Unique preferences are isolated
+meaning they will not be satisfied by stores.
+
+### How Internet Retailing Startups Grow
+
+Two important patterns:
+
+- In the beginning sales start out in larger cities and spread by proximity from person to person.
+- Later on, sales pick up in smaller areas that are quite far apart, but that contain "similar" kinds of people.
+
 ## Resources
 
 - Introduction to Marketing https://www.coursera.org/learn/wharton-marketing/home/welcome
