@@ -185,6 +185,14 @@ Two important patterns:
 - In the beginning sales start out in larger cities and spread by proximity from person to person.
 - Later on, sales pick up in smaller areas that are quite far apart, but that contain "similar" kinds of people.
 
+## 4 Levels of Marketing
+
+- 1P: Product
+- 4P: Product, Price, Place, Promotion
+- STP: Segmentation, Targeting, Positioning
+- ME: Marketing is Everything 
+
 ## Resources
 
 - Introduction to Marketing https://www.coursera.org/learn/wharton-marketing/home/welcome
+- Philip Kotler: Marketing https://www.youtube.com/watch?v=sR-qL7QdVZQ
